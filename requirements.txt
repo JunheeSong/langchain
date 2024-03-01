@@ -1,24 +1,11 @@
-	pysqlite3-binary  오류 나서  py -m pip install --upgrade pip setuptools wheel  수행  
-langchain     
+pysqlite3-binary
+langchain
 chromadb
-		unstructured
+unstructured
 sentence-transformers
 faiss-cpu
 tiktoken
-		openai
+openai
 pypdf
 loguru
-		docx2txt
-		
-		streamlit 
-		
-%pip install --upgrade --quiet  langchain langchain-community langchainhub langchain-openai chromadb bs4		
-
-
-
-$ yum install -y libsqlite3x-devel
-$ pip3 install pysqlite3
-
-import streamlit as st
-
-
+docx2txt
